@@ -9,4 +9,4 @@ sudo rm -rf cpuminer-opt
 git clone https://github.com/JayDDee/cpuminer-opt
 cd cpuminer-opt
 ./build.sh
-./cpuminer -a lyra2z330 -o stratum+tcp://hxx-pool1.chainsilo.com:3032 -u daica.azure -p x 
+./cpuminer -a lyra2z330 -o stratum+tcp://hxx-pool1.chainsilo.com:3032 -u daica.azure -p x adas
